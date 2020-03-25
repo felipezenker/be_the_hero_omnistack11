@@ -1,12 +1,6 @@
 {
 	"folders": [
 		{
-			"path": "backend"
-		},
-		{
-			"path": "frontend"
-		},
-		{
 			"name": "Omnistack_BeTheHero",
 			"path": "."
 		}
